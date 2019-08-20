@@ -13,7 +13,7 @@ pyasn1==0.4.6
 pyasn1-modules==0.2.6    
 pycryptodome==3.8.2    
 python-jwt==2.0.1    
-requests==2.11.1   
+requests==2.20.0   
 requests-toolbelt==0.7.0    
 rsa==4.0      
 setuptools==40.8.0   
