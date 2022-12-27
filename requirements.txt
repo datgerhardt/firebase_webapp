@@ -16,7 +16,7 @@ python-jwt==2.0.1
 requests==2.20.0   
 requests-toolbelt==0.7.0    
 rsa==4.7      
-setuptools==40.8.0   
+setuptools==65.5.1   
 six==1.12.0   
 sseclient==0.0.24   
 
